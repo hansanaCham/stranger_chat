@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722742894217",
+    "project_id": "stranger-chat-8954d",
+    "storage_bucket": "stranger-chat-8954d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722742894217:android:54f42e2ab65e4b328bb058",
+        "android_client_info": {
+          "package_name": "com.example.stranger_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722742894217-572bu2mom1sv9ce57oromqdek6obq0ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXju992aaiKAOcvbvaQoHWFA4W3SPguNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722742894217-572bu2mom1sv9ce57oromqdek6obq0ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
